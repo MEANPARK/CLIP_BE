@@ -13,3 +13,7 @@
 - **DB**: Amazon RDS(MySql 8.0)
 - **Storage**: Amazon S3
 - **Server**: Amazon EC2
+
+## 프로젝트 구조도
+
+<img width="1065" height="541" alt="Image" src="https://github.com/user-attachments/assets/992b3a15-a57f-4bdd-945e-fc44b1089926" />
