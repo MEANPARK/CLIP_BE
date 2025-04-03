@@ -1,7 +1,7 @@
 ## 프로젝트 개요
 
 매칭 시스템 기반의 물물교환 서비스 - CLIP
-![Image](https://github.com/user-attachments/assets/cd0f4899-dbff-4cce-ac3a-586aa5f8084f)
+<img width="1050" height="593" alt="Image" src="https://github.com/user-attachments/assets/1ad1e9cf-dca9-4f1d-aa59-cc61fc151e0a" />
 
 ---
 
