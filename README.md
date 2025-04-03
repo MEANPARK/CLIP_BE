@@ -17,3 +17,6 @@
 ## 프로젝트 구조도
 
 <img width="1065" height="541" alt="Image" src="https://github.com/user-attachments/assets/992b3a15-a57f-4bdd-945e-fc44b1089926" />
+
+## ERD
+![Image](https://github.com/user-attachments/assets/8a0a3da9-874f-4e6e-b652-2b72398cf55c)
